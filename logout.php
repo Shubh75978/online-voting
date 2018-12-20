@@ -12,6 +12,7 @@ session_start();
 </div>
 <?php
 session_destroy();
+
 ?>
 You have been successfully logged out.<br><br><br>
 Return to <a href="index.php">Login</a>
